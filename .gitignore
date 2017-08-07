@@ -1,0 +1,6 @@
+*.suo
+Magnets.sln
+Magnets.csproj
+Magnets.Plugins.csproj
+Library/
+Temp/
