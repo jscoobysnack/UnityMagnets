@@ -1,4 +1,4 @@
-### Magnet Simulation in Unity
+# Magnet Simulation in Unity
 
 ## Motivation
 I always thought magnets were pretty cool. Last year I tried to find some kind magnet simulation code but I could not find anything. So I decided to make my own magnet simulation in Unity.
@@ -41,7 +41,7 @@ You will probably not need to change these.
 **Permeability**: Permeability of free space. https://en.wikipedia.org/wiki/Permeability_(electromagnetism)
 **Max Force**: This is a cap on the amount of force that can be applied during one frame.
 
-### Simulation
+# Simulation
 ## FixedUpdate
 First all of the objects of type `Magnet` are gathered. Then the magnetic force is calculated and applied to each Magnetic pole.
 
