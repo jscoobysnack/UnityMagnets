@@ -96,13 +96,7 @@ The blue spheres represent North magnetic poles. Both the MagnetTrain and Magnet
 
 This is a test to compare what the magnet field looks like using this simulation vs what a real world magnetic field looks like. Looks pretty close to me. The 'iron filings' are basically magnets set up with a rigid body that can only rotate. Translation is disabled.
 
-Feedback and comments are greatly appreciated but please add an insult to make it interesting. Here is a template to help out:
-
-[comment body] and go fuck yourself.
-
-Example:
-
-I love magnets and go fuck yourself.
+Feedback and comments are greatly appreciated.
 
 kubiak@protonmail.com
 
